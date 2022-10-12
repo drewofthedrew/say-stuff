@@ -1,3 +1,10 @@
+'''
+Sweetly composed by Alex Ruger
+11th October, Two Thousandth, Twentieth, plus Two, 
+Year of Our Lord Theo the Cat-o.
+'''
+
+
 def say_something():
     print('What do you want to say?')
     to_print = input()
